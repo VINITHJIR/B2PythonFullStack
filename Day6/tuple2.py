@@ -1,0 +1,7 @@
+value1 = (1, 2, 3, 4, 5 , 45.5)
+print(len(value1))
+print(max(value1))
+print(min(value1))
+print(sum(value1))
+print(sorted(value1))
+print(value1[0])
