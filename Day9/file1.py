@@ -1,0 +1,6 @@
+file = open("employee.txt" , 'w')
+file.write("jayanthi EMP0047 \n")
+file.write("vinithji EMP0077 \n")
+file.write("ashik EMP0047 \n")
+file.write("joythi EMP0077 \n")
+file.close()
