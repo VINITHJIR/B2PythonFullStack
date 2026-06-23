@@ -18,9 +18,7 @@ ramasamy = father("100 pown")
 ramasamy.fproperties()
 
 print("The child properties : ")
-dinesh = child("100 pown")
-dinesh.cproperties()
-print("The child accessed father properties are : ")
+dinesh = child()
 dinesh.fproperties()
 
 
