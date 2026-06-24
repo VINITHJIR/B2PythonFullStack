@@ -9,6 +9,8 @@ class Server(CloudResource):
     def monitor(self):
         print(self._cpu)
 
+cloud = CloudResource()
+print(cloud._cpu)
 server = Server()
 server.monitor()
 
